@@ -1,0 +1,25 @@
+{
+  "record": 826799,
+  "submission_id": "6ad08e38aad397b6d9d733bb",
+  "status": "Pass",
+  "passed": 15,
+  "rank": 69,
+  "score": 45.28,
+  "ranking_query_utc": "2026-10-15T08:29:35.540173+00:00",
+  "source_sha256": "b1c5f8ac1ecad92a872dfaa921688f6e8892a60c581348d78e7a42aac0881905",
+  "bytes": 376141,
+  "same_source_as": [
+    680947,
+    686549,
+    721646
+  ],
+  "no_new_optimization": true,
+  "training_only": true,
+  "url": "https://cannjudge.cn/public/op_challenge_jingdong_prelim/rotaryposemb/submission/6ad08e38aad397b6d9d733bb",
+  "origin_path": "docs/evidence/submit-best-20261015/final.json",
+  "origin_sha256": "4d26be578206b109111573ec041f1c6ed86204cc2bface512d293d28b69fe498",
+  "limits": [
+    "Historical training snapshot; not an official final rank or award.",
+    "Same source at a different date; no optimization speedup claimed."
+  ]
+}

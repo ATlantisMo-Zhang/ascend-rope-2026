@@ -1,0 +1,111 @@
+{
+  "record": 509159,
+  "submission_id": "6abb400a694b590c3c7489e5",
+  "submission_url": "https://cannjudge.cn/public/op_challenge_jingdong_prelim/rotaryposemb/submission/6abb400a694b590c3c7489e5",
+  "record_time_local": "2026/09/29 12:35:22",
+  "time_zone": "Asia/Hong_Kong",
+  "evidence_kind": "historical browser result transcribed during the competition",
+  "submission_purpose": "online_training",
+  "status": "Pass",
+  "passed_testcases": 15,
+  "source_sha256": "41a4fa4bcad2f0ee3efc092c86aaa5068f28f85d04f32ebee96abcfed306cb30",
+  "code_tag": "rotaryposemb-baseline-v3",
+  "origin_path": "docs/evidence/training-20260929-03/submission.json",
+  "origin_sha256": "e5d4ecf1cd41c0c6becc89bb9e16db2ba7ab56129094a193f36e5cbde40ef2ea",
+  "cases": [
+    {
+      "index": 1,
+      "status": "Pass",
+      "time_display": "19.85 us",
+      "time_us": 19.85
+    },
+    {
+      "index": 2,
+      "status": "Pass",
+      "time_display": "33.18 us",
+      "time_us": 33.18
+    },
+    {
+      "index": 3,
+      "status": "Pass",
+      "time_display": "63.19 us",
+      "time_us": 63.19
+    },
+    {
+      "index": 4,
+      "status": "Pass",
+      "time_display": "137.73 us",
+      "time_us": 137.73
+    },
+    {
+      "index": 5,
+      "status": "Pass",
+      "time_display": "185.62 us",
+      "time_us": 185.62
+    },
+    {
+      "index": 6,
+      "status": "Pass",
+      "time_display": "366.24 us",
+      "time_us": 366.24
+    },
+    {
+      "index": 7,
+      "status": "Pass",
+      "time_display": "243.47 us",
+      "time_us": 243.47
+    },
+    {
+      "index": 8,
+      "status": "Pass",
+      "time_display": "264.75 us",
+      "time_us": 264.75
+    },
+    {
+      "index": 9,
+      "status": "Pass",
+      "time_display": "1.16 ms",
+      "time_us": 1160.0
+    },
+    {
+      "index": 10,
+      "status": "Pass",
+      "time_display": "224 ms",
+      "time_us": 224000.0
+    },
+    {
+      "index": 11,
+      "status": "Pass",
+      "time_display": "745.75 us",
+      "time_us": 745.75
+    },
+    {
+      "index": 12,
+      "status": "Pass",
+      "time_display": "5.37 ms",
+      "time_us": 5370.0
+    },
+    {
+      "index": 13,
+      "status": "Pass",
+      "time_display": "2.19 ms",
+      "time_us": 2190.0
+    },
+    {
+      "index": 14,
+      "status": "Pass",
+      "time_display": "3.94 ms",
+      "time_us": 3940.0
+    },
+    {
+      "index": 15,
+      "status": "Pass",
+      "time_display": "20.0 ms",
+      "time_us": 20000.0
+    }
+  ],
+  "limits": [
+    "Displayed ms values are rounded; not raw event timings.",
+    "Point indices follow historical platform display order; hidden shapes/dtypes are unknown."
+  ]
+}

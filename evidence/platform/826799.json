@@ -1,0 +1,164 @@
+{
+  "queried_at_utc": "2026-10-15T08:29:19.022038+00:00",
+  "training_only": true,
+  "wire_source_verified": true,
+  "server_source_verified": true,
+  "passed_testcases": 15,
+  "latest_query": {
+    "submission_id": "6ad08e38aad397b6d9d733bb",
+    "record_number": 826799,
+    "problem_id": "6a9a9befbf41025d60143218",
+    "create_time": "2026-10-15T08:26:32.544Z",
+    "status": "Pass",
+    "valid": true,
+    "kernel": {
+      "path": "kernel.asc",
+      "bytes": 376141,
+      "sha256": "b1c5f8ac1ecad92a872dfaa921688f6e8892a60c581348d78e7a42aac0881905"
+    },
+    "kernel_raw": {
+      "path": "kernel.asc",
+      "bytes": 376141,
+      "sha256": "b1c5f8ac1ecad92a872dfaa921688f6e8892a60c581348d78e7a42aac0881905"
+    },
+    "msg": null,
+    "terminal": true,
+    "result": [
+      {
+        "testcase_id": "6a9a9befbf41025d6014321d",
+        "time": 3.74,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 2.22
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143221",
+        "time": 6.1,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 3.17
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143225",
+        "time": 6.44,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 3.88
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143229",
+        "time": 17.4,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 5.76
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d6014322d",
+        "time": 17.8,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 6.68
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143231",
+        "time": 30.64,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 8.44
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143235",
+        "time": 22.09,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 10.75
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143239",
+        "time": 11.97,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 7.72
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d6014323d",
+        "time": 35.6,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 15.92
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143241",
+        "time": 3290.77,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 3062.77
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143245",
+        "time": 46.95,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 35.9
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143249",
+        "time": 61.38,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 42.5
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d6014324d",
+        "time": 360.74,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 236.22
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143251",
+        "time": 879.79,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 734.3
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143255",
+        "time": 317.78,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0,
+        "type": "default",
+        "best_time": 171
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "query_utc": "2026-10-11T03:44:15.268781+00:00",
+  "own_record": 721646,
+  "own_rank": 59,
+  "own_score": 47.54,
+  "kind": "historical training leaderboard snapshot; not official award/final ranking",
+  "origin_path": "docs/evidence/resume-20261005/submit-setup/final-best680947-20261011-platform/comparison.json",
+  "origin_sha256": "8980416a37188822479b83d3d9398b1bb8e25d94d3f4b1e56f93a528ffb7ddc8",
+  "real_rank10": {
+    "rank": 10,
+    "record": 720247,
+    "submission_id": "6acaef42694b590c3ccec19f",
+    "score": 62.86,
+    "result": [
+      {
+        "testcase_id": "6a9a9befbf41025d6014321d",
+        "time": 3.3,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143221",
+        "time": 6.84,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143225",
+        "time": 5,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143229",
+        "time": 9.59,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d6014322d",
+        "time": 12.49,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143231",
+        "time": 14.94,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143235",
+        "time": 14.87,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143239",
+        "time": 8.04,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d6014323d",
+        "time": 25.46,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143241",
+        "time": 4257.15,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143245",
+        "time": 39,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143249",
+        "time": 46.47,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d6014324d",
+        "time": 246.73,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143251",
+        "time": 864.37,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      },
+      {
+        "testcase_id": "6a9a9befbf41025d60143255",
+        "time": 278.31,
+        "precision_ratio": 1,
+        "testcase_status": "Pass",
+        "score": 0
+      }
+    ]
+  },
+  "privacy": "Unrelated team names, nicknames and account fields omitted."
+}

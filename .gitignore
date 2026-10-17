@@ -1,0 +1,9 @@
+**/build/
+**/input/
+**/output/
+**/npu-validation/
+**/__pycache__/
+*.pyc
+*.bin
+.env
+.env.*
